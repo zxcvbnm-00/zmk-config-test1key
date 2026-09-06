@@ -3,8 +3,8 @@
 # for instructions.
 
 file_format: "1"
-id: key
-name: 1key
+id: onekey
+name: OneKey
 type: shield
 
 # Set this to a URL that documents the keyboard.
